@@ -57,8 +57,8 @@ I enjoy backend development, structured coding, and building real projects to im
 <div align="center">
 
 ### 📊 GitHub Activity  
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=NoahmathieuE&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noahmathieu&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
