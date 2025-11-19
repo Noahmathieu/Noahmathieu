@@ -1,13 +1,13 @@
 # Hi, I'm Noah 👋  
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA3FF&vCenter=true&width=550&lines=IT+Student;Programming+Learner;Future+Java+Developer;Always+Improving)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA3FF&vCenter=true&width=650&lines=IT+Student;Programming+Learner;Boosted+Java+Developer;Passionate+About+Learning;Always+Improving)
 
 ---
 
 <div align="center">
 
 ### 🚀 Passionate About Learning & Building  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activity/Technologist.png" width="80" />
+<img src="https://github.com/animated-icons/animated-icons/blob/master/icons/laptop/laptop.gif?raw=true" width="80" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 I’m an IT student and programming learner focused on becoming a strong software developer.  
-I enjoy exploring backend development, understanding how systems work, and building real projects to improve my skills.
+I enjoy backend development, structured coding, and building real projects to improve my skills.
 
 ---
 
@@ -23,9 +23,14 @@ I enjoy exploring backend development, understanding how systems work, and build
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-e76f00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-68217A?style=for-the-badge&logo=visual-basic&logoColor=white)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### **Web**
 ![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,9 +48,9 @@ I enjoy exploring backend development, understanding how systems work, and build
 
 ## 📌 Current Focus
 ✔ Getting better at Java development  
-✔ Learning backend fundamentals  
-✔ Understanding clean, maintainable code  
-✔ Building more structured and real-world projects  
+✔ Mastering backend fundamentals  
+✔ Clean code and maintainable architecture  
+✔ Building more structured real-world projects  
 
 ---
 
@@ -60,4 +65,4 @@ I enjoy exploring backend development, understanding how systems work, and build
 ---
 
 ## 📫 Contact
-📧 Email: *your-email@example.com*  
+📧 Email: *Noahtown011@gmail.com*  
