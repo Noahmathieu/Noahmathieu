@@ -6,7 +6,7 @@ on:
       - main
 
   schedule:
-    - cron: "0 */6 * * *"  # toutes les 6 heures
+    - cron: "0 */6 * * *"
 
 jobs:
   auto_commit:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          persist-credentials: true
           fetch-depth: 0
 
       - name: Modify "LAST_UPDATED" file
@@ -36,8 +36,8 @@ jobs:
           array[7]="💥 Auto commit"
           array[8]="🚨 Auto commit"
           array[9]="🔍 Auto commit"
-          
-          git commit -m "${array[$[$RANDOM % ${#array[@]}]]}"
+
+          git commit -m "${array[$[$RANDOM % ${#array[@]}]]}" || echo "No changes to commit"
 
       - name: GitHub push
         uses: ad-m/github-push-action@v0.6.0
