@@ -64,7 +64,6 @@ I enjoy backend development, structured coding, and building real projects to im
 ### 📊 GitHub Activity  
 
 <!-- Stats principales -->
-<img src="https://github-readme-stats.vercel.app/api?username=Noahmathieu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Noahmathieu&style=for-the-badge)
