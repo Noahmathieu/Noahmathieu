@@ -57,9 +57,9 @@ I enjoy backend development, structured coding, and building real projects to im
 <div align="center">
 
 ### 📊 GitHub Activity  
+<img src="https://github-readme-stats.vercel.app/api?username=Noahmathieu&show_icons=true&count_private=true&include_all_commits=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_ICI&show_icons=true"/>
-<img src="https://streak-stats.demolab.com/?user=TON_USERNAME_ICI&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Noahmathieu" height="160"/>
 
 </div>
 
