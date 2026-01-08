@@ -6,8 +6,7 @@
 
 <div align="center">
 
-### 🚀 Passionate About Learning & Building  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80" />
+### 🚀 Passionate About Learning & Building
 
 </div>
 
