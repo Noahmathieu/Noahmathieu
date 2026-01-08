@@ -8,7 +8,7 @@
 <div align="center">
 
 ### 🚀 Learning, Building & Improving  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
 
 </div>
 
@@ -47,11 +47,14 @@ I enjoy backend development, structured coding, and building real projects to im
 
 ---
 
-## 📌 Current Focus
-✔ Improving Java backend skills  
-✔ Mastering programming fundamentals  
-✔ Writing clean and maintainable code  
-✔ Building real-world structured projects  
+## 📊 GitHub Activity
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Noahmathieu&show_icons=true" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=Noahmathieu" height="150"/>
+
+</div>
 
 ---
 
