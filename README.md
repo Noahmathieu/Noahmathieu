@@ -1,13 +1,14 @@
-# Hi, I'm Noah 👋  
+# 👋 Noah Mathieu  
+### Java Developer in Progress • IT Student
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA3FF&vCenter=true&width=650&lines=IT+Student;Programming+Learner;Java+Developer+in+Progress;Passionate+About+Learning;Always+Improving)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=4DA3FF&vCenter=true&width=600&lines=IT+Student;Programming+Learner;Java+Developer+in+Progress;Passionate+About+Learning;Always+Improving)
 
 ---
 
 <div align="center">
 
-### 🚀 Passionate About Learning & Building  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90"/>
+### 🚀 Learning, Building & Improving  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52"/>
 
 </div>
 
@@ -51,17 +52,6 @@ I enjoy backend development, structured coding, and building real projects to im
 ✔ Mastering programming fundamentals  
 ✔ Writing clean and maintainable code  
 ✔ Building real-world structured projects  
-
----
-
-<div align="center">
-
-### 📊 GitHub Activity  
-<img src="https://github-readme-stats.vercel.app/api?username=Noahmathieu&show_icons=true&count_private=true&include_all_commits=true" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=Noahmathieu" height="160"/>
-
-</div>
 
 ---
 
