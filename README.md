@@ -3,12 +3,16 @@
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=4DA3FF&vCenter=true&width=650&lines=IT+Student;Programming+Learner;Boosted+Java+Developer;Passionate+About+Learning;Always+Improving)
 
 ---
-
 <div align="center">
 
-### 🚀 Passionate About Learning & Building
+### 🚀 Passionate About Learning & Building  
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+     width="120" 
+     style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);" />
 
 </div>
+
 
 ---
 
