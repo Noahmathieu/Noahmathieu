@@ -13,7 +13,6 @@
 
 </div>
 
-
 ---
 
 ## 🌟 About Me
@@ -66,7 +65,8 @@ I enjoy backend development, structured coding, and building real projects to im
 
 <img src="https://github-readme-stats.vercel.app/api?username=Noahmathieu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noahmathieu&theme=tokyonight&hide_border=true" height="160" />
+<!-- Optionnel : badge alternatif pour streak -->
+![GitHub contributions](https://img.shields.io/badge/Contributions-🔥-red?style=for-the-badge)
 
 </div>
 
